@@ -6,7 +6,7 @@ Affiliation: College of Electronics and Information Engineering, Sichuan Univers
 
 This is an image batch processing software for porous media, including commonly used functions:
 
-=============================================2019-11-15 update===========================================
+============2019-11-15 update============
 
 Author: Feng Junxi
 
@@ -16,7 +16,7 @@ Author: Feng Junxi
 
   
 
-=============================================first commit=============================================
+============first commit============
 
 - 2D and 3D Porosity calculation (二维和三维的孔隙度计算)
 - 2D  and 3D several statistical functions (二维和三维形态刻画函数)
